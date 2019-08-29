@@ -1,6 +1,8 @@
 {
-  "name": "page-horizontally-switching-animation",
-  "version": "0.1.0",
+  "name": "page-animation",
+  "author": "zhanghongda <1270985682@qq.com>",
+  "description": "Vue Page Animation",
+  "version": "1.0.0",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
